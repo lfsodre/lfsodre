@@ -1,13 +1,11 @@
 <h1 align="center">Hello World 🌍<br>I'm Sodre, a development Programmer</h1>
 
 <div align="center">
-    <h2> 📩 SOCIALS 📩 </h2>
+    <h3> 📩 SOCIALS 📩 </h3>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</div>
-<br>
-<div align="center">
+    <hr>
     <h1> 📌 My HARD SKILLS 📌</h1>
     <h3> 💻 Programming Languages 💻</h3>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -39,5 +37,7 @@
     <h3> ⚙️ Operational System ⚙️ </h3>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=lfsodre&show_icons=true&theme">
+    <img height=140 src="https://github-readme-stats.vercel.app/api?username=lfsodre&show_icons=true&theme=dark">
+    <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsodre&layout=compact&theme=dark">
+    
 </div>
