@@ -1,43 +1,18 @@
-<h1 align="center">Hello World 🌍<br>I'm Sodre, a development Programmer</h1>
+<h1 align="center"><b>Hello World 🌍<br>I'm Sodre, a development Programmer</h1>
 
-<div align="center">
-    <h3> 📩 SOCIALS 📩 </h3>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <hr>
-    <h1> 📌 My HARD SKILLS 📌</h1>
-    <h3> 💻 Programming Languages 💻</h3>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <hr>
-    <h3> 🗂️ DataBase 🗂️ </h3>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white">
-    <hr>
-    <h3> 🖌️ Design 🖌️ </h3>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    <img src="https://www.pngitem.com/pimgs/m/593-5932443_procreate-logo-hd-png-download.png" height=28>
-    <hr>
-    <h3> 📟 IDE 📟 </h3>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white">
-    <hr>
-    <h3> 📝 Office 📝 </h3>
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white">
-    <hr>
-    <h3> ⚙️ Operational System ⚙️ </h3>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <hr>
-    <img height=140 src="https://github-readme-stats.vercel.app/api?username=lfsodre&show_icons=true&theme=dark">
-    <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfsodre&layout=compact&theme=dark">
-    
+<div>
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <img align="right" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="400">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" text="VScode" alt="Icon VScode"/>
+	<img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" text="Eclipse" alt="Icon Eclipse"/>
+	<img width="60" src="https://yourstuffmade.com/cdn/shop/files/procreateappicon-1664671639075.webp?v=1690879094" text="Procreate" alt="Icon Procreate"/>
+    <img width="60" src="https://laisschulz.com/wp-content/uploads/2019/12/canva-aplicativos-criar-stories.png" text="Canva" alt="Icon Canva"/>
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" text="Python" alt="Icon Python">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" text="HTML" alt="Icon HTML">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" text="CSS" alt="Icon CSS">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" text="Java Script" alt="Icon JS">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" text="Java" alt="Icon Java">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" text="Language C" alt="Icon C">
+    <img width="60" src="https://static-00.iconduck.com/assets.00/dbeaver-icon-2048x2026-kcj6pqth.png" text="DBeaver" alt="Icon DBeaver">
+    <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" text="PostSQL" alt="Icon PostSQL">
 </div>
