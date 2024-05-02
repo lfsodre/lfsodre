@@ -12,6 +12,7 @@
         <img width="60" src="https://laisschulz.com/wp-content/uploads/2019/12/canva-aplicativos-criar-stories.png" alt="Icon Canva"/>
         <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Icon Python">
         <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="Icon HTML">
+        <br>
         <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="Icon CSS">
         <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Icon JS">
         <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Icon Java">
