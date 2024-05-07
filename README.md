@@ -2,7 +2,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <div>
-    <img align="right" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="49%">
+    <img align="right" src="img/mario.gif" width="49%">
     <div align="center" width="50%">
         <img width ="400" src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=gradient&text=Languages%20-%20FrameWorks%20-%20Tools&fontColor=d33a78&fontSize=50">
         <br>
@@ -20,7 +20,7 @@
         <img width="60" src="https://static-00.iconduck.com/assets.00/dbeaver-icon-2048x2026-kcj6pqth.png" alt="Icon DBeaver">
         <img width="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="Icon PostSQL">
         <br><br>
-        <img align="center" width ="20%" src="https://img.shields.io/github/followers/lfsodre?logo=github&logoColor=d33a78&labelColor=01102d&color=blue&style=for-the-badge"></a>
+        <img align="center" width ="20%" src="https://img.shields.io/github/followers/lfsodre?logo=github&logoColor=d33a78&labelColor=01102d&color=blue&style=for-the-badge">
     </div>
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
