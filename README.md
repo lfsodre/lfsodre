@@ -28,5 +28,5 @@
 <div align="center">
     <img width="280" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lfsodre&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
     <img width="265" src="https://github-readme-stats-salesp07.vercel.app/api?username=lfsodre&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="240" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lfsodre&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width="225" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lfsodre&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
