@@ -2,7 +2,7 @@
 
 <div align=center>
     <!--LINE-->
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0569f4" width="580">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0569f4" width="580">
     <!--LANGUAGES, IDES AND TOOLS-->
     <div align=center>
         <img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -47,7 +47,7 @@
         <img align="center" src="gif/gif_2.gif" height="180em" alt="GIF">
     </div>
     <!--LINE-->
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0569f4" width="580">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0569f4" width="580">
 </div>
 
 
