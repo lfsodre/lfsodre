@@ -50,7 +50,6 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0569f4" width="580">
 </div>
 
-
 <!--
 SELECIONAR VÁRIOS ATRIBUTOS CTRL + D
 
