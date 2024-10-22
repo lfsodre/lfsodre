@@ -3,31 +3,36 @@
 <div align=center>
     <!--LINE-->
     <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0569f4" width="580">
-    <!--LANGUAGES, IDES AND TOOLS-->
+    <!--STATS-->
     <div align=center>
-        <img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-        <img alt="VSCODE" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-        <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-        <img alt="PROCREATE" src="https://img.shields.io/badge/procreate-242324?style=for-the-badge&logo=procreate&logoColor=242324">
-    </div>
-    <div align=center>
-        <img alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-        <img alt="" src="">
-    </div>
-    <!--LINE-->
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0569f4" width="580">
-    <div align=center>
-        <!--GIF-->
-        <img align="center" src="gif/gif_1.gif" height="180em" alt="GIF">
-        <!--TOP LANGUAGES-->
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfsodre&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent" alt="Top Languages"/>
-        <!--GIF-->
-        <img align="center" src="gif/gif_1.gif" height="180em" alt="GIF">
-        <br>
+        <div align="center" style="display: flex; justify-content: center;">
+            <!--GIF-->
+            <img src="gif/gif_1.gif" height="165em" alt="GIF">
+            <!--LANGUAGES, IDES AND TOOLS-->
+            <div style="margin: 8px;">
+                <img alt="WINDOWS" src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+                <img alt="VSCODE" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+                <img alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+                <br>
+                <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+                <img alt="PROCREATE" src="https://img.shields.io/badge/procreate-242324?style=for-the-badge">
+                <img alt="DEV" src="https://img.shields.io/badge/DEV_to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&logoSize=auto">
+                <br>
+                <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+                <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+                <br>
+                <img alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+                <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+                <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge">
+                <br>
+                <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+                <img alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+                <img alt="" src="">
+            </div>
+            <!--GIF-->
+            <img src="gif/gif_1.gif" height="180em" alt="GIF">
+        </div>
         <!--STATS-->
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lfsodre&theme=transparent" height="180em" alt="Stats"/>
         <!--TOP LANGUAGES COMMIT-->
