@@ -40,17 +40,17 @@
     <br>
     <!--COMMITS-->
     <img height="180em" alt="COMMITS" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
-    <!--ORCA GIF-->
+    <!--ORCA_GIF-->
     <img src="img/orca.gif" height="180em" alt="GIF"/>
     <br>
-    <!--CAT GIF-->
+    <!--CAT_GIF-->
     <img src="img/cat.gif" height="180em" alt="GIF"/>
     <!--TOP LANGUAGES BY COMMIT-->
     <img height="180em" alt="TOP LANGUAGES BY COMMIT" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/>
     <br>
     <!--CURRENT STREAK-->
     <img height="150em" alt="CURRENT STREAK" src="https://streak-stats.demolab.com/?user=lfsodre&border=61dafb&hide_border=true&theme=transparent"/>
-    <!--BEE GIF-->
+    <!--BEE_GIF-->
     <img src="img/bee.gif" height="150em" alt="GIF"/>
     <br>
     <!--GRAPHIC-->
