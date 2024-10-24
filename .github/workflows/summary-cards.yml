@@ -17,6 +17,6 @@ build:
     - uses: actions/checkout@v2
     - uses: lfsodre/github-profile-summary-cards@release
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.CARD_TOKEN }}
       with:
         USERNAME: ${{ github.lfsodre }}
