@@ -50,7 +50,7 @@
     <br>
     <!--CURRENT STREAK-->
     <img height="150em" alt="CURRENT STREAK" src="https://streak-stats.demolab.com/?user=lfsodre&border=61dafb&hide_border=true&theme=transparent"/>
-    <!--ORCA_1_GIF-->
+    <!--BEE_GIF-->
     <img src="img/bee.gif" height="150em" alt="GIF"/>
     <br>
     <!--GRAPHIC-->
