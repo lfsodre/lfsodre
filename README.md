@@ -40,8 +40,8 @@
     <br>
     <!--COMMITS-->
     <img height="180em" alt="COMMITS" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
-    <!--ORCA_GIF-->
-    <img src="img/orca.gif" height="180em" alt="GIF"/>
+    <!--ORCA_2_GIF-->
+    <img src="img/orca_2.gif" height="180em" alt="GIF"/>
     <br>
     <!--CAT_GIF-->
     <img src="img/cat.gif" height="180em" alt="GIF"/>
@@ -50,7 +50,7 @@
     <br>
     <!--CURRENT STREAK-->
     <img height="150em" alt="CURRENT STREAK" src="https://streak-stats.demolab.com/?user=lfsodre&border=61dafb&hide_border=true&theme=transparent"/>
-    <!--BEE_GIF-->
+    <!--ORCA_1_GIF-->
     <img src="img/bee.gif" height="150em" alt="GIF"/>
     <br>
     <!--GRAPHIC-->
