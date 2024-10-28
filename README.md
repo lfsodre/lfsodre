@@ -34,19 +34,19 @@
 <div align="center">
     <!--TOP LANGUAGES BY REPO-->
     <img height="180em" alt="TOP LANGUAGES BY REPO"
-    src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/>
+    src="https://raw.githubusercontent.com/lfsodre/lfsodre/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/>
     <!--STATS-->
-    <img height="180em" alt="STATS" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/3-stats.svg"/>
+    <img height="180em" alt="STATS" src="https://raw.githubusercontent.com/lfsodre/lfsodre/master/profile-summary-card-output/transparent/3-stats.svg"/>
     <br>
     <!--COMMITS-->
-    <img height="180em" alt="COMMITS" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
+    <img height="180em" alt="COMMITS" src="https://raw.githubusercontent.com/lfsodre/lfsodre/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
     <!--ORCA_2_GIF-->
     <img src="img/orca_2.gif" height="180em" alt="GIF"/>
     <br>
     <!--CAT_GIF-->
     <img src="img/cat.gif" height="180em" alt="GIF"/>
     <!--TOP LANGUAGES BY COMMIT-->
-    <img height="180em" alt="TOP LANGUAGES BY COMMIT" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/>
+    <img height="180em" alt="TOP LANGUAGES BY COMMIT" src="https://raw.githubusercontent.com/lfsodre/lfsodre/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/>
     <br>
     <!--CURRENT STREAK-->
     <img height="150em" alt="CURRENT STREAK" src="https://streak-stats.demolab.com/?user=lfsodre&border=61dafb&hide_border=true&theme=transparent"/>
@@ -54,7 +54,7 @@
     <img src="img/bee.gif" height="150em" alt="GIF"/>
     <br>
     <!--GRAPHIC-->
-    <img height="180em" alt="GRAPHIC" src="https://raw.githubusercontent.com/lfsodre/lfsodre_2/master/profile-summary-card-output/transparent/0-profile-details.svg"/>
+    <img height="180em" alt="GRAPHIC" src="https://raw.githubusercontent.com/lfsodre/lfsodre/master/profile-summary-card-output/transparent/0-profile-details.svg"/>
     <!--LINE-->
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=37&letterSpacing=-8px&duration=500&pause=1000&color=0569F4&center=true&vCenter=true&repeat=false&width=580&height=30&lines=-------------------------------------------------" alt="Line" />
 </div>
